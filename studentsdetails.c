@@ -1,3 +1,5 @@
+/*MWANZIA SAMUEL
+ENE212-0225/2019*/
 #include <stdio.h>
 #include <string.h>
 
